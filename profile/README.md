@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+Welcome to structured canvas!
+
+## Support & Community 📢
+
+- Join our Discord 🗯️: https://discord.gg/sksP2qyJ
+
+
 <!--
 
 **Here are some ideas to get you started:**
