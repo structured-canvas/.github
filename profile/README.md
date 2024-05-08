@@ -4,9 +4,15 @@ Welcome to structured canvas!
 
 ## Support & Community 📢
 
-- Join our Discord 🗯️: https://discord.gg/sksP2qyJ
+- Join my Discord: https://discord.gg/sksP2qyJ
 
+## Buy me a coffee ☕
 
+If you want to support my work, consider buying me a coffee or becoming a GitHub Sponsor:
+
+- Become a GitHub sponsor: https://github.com/sponsors/structured-canvas
+- Buy me a coffee: https://buymeacoffee.com/structuredcanvas
+  
 <!--
 
 **Here are some ideas to get you started:**
